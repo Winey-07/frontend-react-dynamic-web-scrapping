@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import { Routes, Route } from "react-router";
 import Home from "./pages/Home";
 import History from "./pages/History";
+import "./index.css";
 
 function App() {
   return (

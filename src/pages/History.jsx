@@ -1,6 +1,8 @@
 import React, { useState } from "react";
+import { Link } from "react-router";
 import { Input, Table, Tag, Collapse, Typography, Space } from "antd";
 import { SearchOutlined } from "@ant-design/icons";
+import Navbar from "../components/Navbar.jsx";
 
 // ==========================================
 // 1. Grouped Dummy Data
